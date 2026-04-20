@@ -1,21 +1,21 @@
-# 🛒 Sistema de Gerenciamento de Produtos
+Sistema de Gerenciamento de Produtos
 
 Sistema desenvolvido em Java com foco em Programação Orientada a Objetos (POO).
 
-## 🚀 Funcionalidades
+Funcionalidades
 
 * Adicionar produtos
 * Listar produtos
 * Buscar produtos por nome
 * Remover produtos por ID
 
-## 🧠 Tecnologias
+Tecnologias
 
 * Java
 * ArrayList
 * POO
 
-## 📂 Estrutura
+Estrutura
 
 ```
 src/pjt/
@@ -24,18 +24,18 @@ src/pjt/
 └── ProdutoService.java
 ```
 
-## ▶️ Como executar
+Como executar
 
 ```
 javac Main.java
 java Main
 ```
 
-## 🚀 Próximos passos
+Próximos passos
 
 * Transformar em API com Spring Boot
 * Adicionar banco de dados
 
-## 👨‍💻 Autor
+Autor
 
 Thallys José
